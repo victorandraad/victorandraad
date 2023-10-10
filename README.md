@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A passionate python developer from Brazil</h3>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 - 🔭 I’m currently working on [school-tasks](https://github.com/sergiojunior13/school-tasks)
 
 - 🌱 I’m currently learning **Flask and API's**
