@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A passionate python developer from Brazil</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<div align="center">
+  <a href="https://github.com/sergiojunior13">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiojunior13&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiojunior13&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
 - 🔭 I’m currently working on [school-tasks](https://github.com/sergiojunior13/school-tasks)
 
