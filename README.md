@@ -7,9 +7,9 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradavic&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-- 🔭 I’m currently working on [school-tasks](https://github.com/sergiojunior13/school-tasks)
+- 🔭 I’m currently working on [Um to-do list muito bom!]([https://github.com/sergiojunior13/school-tasks](https://github.com/andradavic/to-do-list-so-que-melhor))
 
-- 🌱 I’m currently learning **Flask and API's**
+- 🌱 I’m currently learning **PHP**
 
 - 💬 Ask me about **Basic Python**
 
