@@ -28,5 +28,5 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-"Programmers and artists are the only professionals
-who have their own profession as a hobby."
+"The issue is not knowing the codes or command lines, 
+it's knowing what to do with them."
