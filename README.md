@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Um to-do list muito bom!](https://github.com/andradavic/to-do-list-so-que-melhor)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Kotlin**
 
-- 💬 Ask me about **Basic Python**
+- 💬 Ask me about the **learning process**
 
 - 📫 How to reach me **victor.andraad@gmail.com**
 
