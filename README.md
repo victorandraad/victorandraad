@@ -7,9 +7,9 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorandraad&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-- 🔭 I’m currently working on [**PyroPlugins-API**](https://github.com/PlayerDuvidoso/PyroPlugins-API)
+- 🔭 I’m currently working on ??
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about the **learning process**
 
