@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">Full Stack Developer | Code Explorer 🚀</h3>
----
 
 <div align="center">
   <a href="https://github.com/victorandraad">
